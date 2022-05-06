@@ -1,0 +1,29 @@
+{
+  "name": "studbud",
+  "version": "1.0.0",
+  "description": "This is a study application designed for students with ADHD",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bleumuses/studbud.git"
+  },
+  "keywords": [
+    "study",
+    "app",
+    "studbud",
+    "ADHD"
+  ],
+  "author": "Samantha Le",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bleumuses/studbud/issues"
+  },
+  "homepage": "https://github.com/bleumuses/studbud#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
